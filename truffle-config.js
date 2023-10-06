@@ -44,7 +44,7 @@
 const HDWalletProvider = require('@truffle/hdwallet-provider');
 
 const fs = require('fs');
-const mnemonic = 'armed worry patch system recipe surface panda flee pool also layer smoke';//fs.readFileSync(".secret").toString().trim();
+const mnemonic = '';//fs.readFileSync(".secret").toString().trim();
 
 module.exports = {
   /**
